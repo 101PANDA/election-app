@@ -1,0 +1,5 @@
+{
+  "name": "Student Union Voting App",
+  "description": "A secure and simple web-based election app that allows registered students to log in and vote for candidates. An admin panel allows for managing the election, candidates, and voters.",
+  "requestFramePermissions": []
+}
